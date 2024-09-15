@@ -1,5 +1,6 @@
-<img align="top" alt="Coding" width="400" src="/profile.jpg">
-
+<div align="center">
+  <img alt="Coding" width="400" src="/profile.jpg">
+</div>
 <h1 align="center">Hi 👋, I'm Govinda Mahanti</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
