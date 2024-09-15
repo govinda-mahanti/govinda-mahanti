@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coding" width="700" src="/git.gif">
+  <img alt="Coding" width="800" src="/git.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Govinda Mahanti</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
