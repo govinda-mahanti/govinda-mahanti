@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="./profile.gif">
+<img align="right" alt="Coding" width="400" src="[./profile.gif](https://github.com/govinda-mahanti/govinda-mahanti/blob/main/profile.jpg)">
 
 <h1 align="center">Hi 👋, I'm Govinda Mahanti</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
