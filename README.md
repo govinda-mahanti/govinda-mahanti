@@ -25,7 +25,7 @@ I'm passionate about building AI-powered products, scalable backend architecture
 ### 🌱 Currently Learning
 - Advanced System Design
 - Microservices Architecture
-- Kubernetes & Cloud Infrastructure
+- Devops & Cloud Infrastructure
 - AI Agents & LLM Applications
 
 ### 🤝 Open to Collaborate On
