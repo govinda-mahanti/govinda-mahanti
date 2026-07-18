@@ -16,23 +16,13 @@ I specialize in developing modern web applications using **React.js, Next.js, No
 I'm passionate about building AI-powered products, scalable backend architectures, and delivering production-ready software through clean code, performance optimization, and modern DevOps practices.
 
 ### 🚀 What I Do
-- Build scalable Full Stack applications with React, Next.js, Node.js & MongoDB
-- Design secure REST APIs with JWT authentication
-- Integrate AI solutions using Gemini & Groq APIs
-- Deploy applications using Docker, AWS EC2, Nginx, Jenkins, and CI/CD pipelines
-- Optimize application performance, scalability, and user experience
+• Build scalable Full Stack applications • Design secure REST APIs • Integrate AI solutions • Deploy with Docker & AWS • Optimize performance
 
 ### 🌱 Currently Learning
-- Advanced System Design
-- Microservices Architecture
-- Devops & Cloud Infrastructure
-- AI Agents & LLM Applications
+• Advanced System Design • Microservices • DevOps & Cloud • AI Agents & LLMs
 
 ### 🤝 Open to Collaborate On
-- Open Source Projects
-- AI-powered SaaS Platforms
-- Full Stack Web Applications
-- Developer Tools & Automation
+• Open Source • AI SaaS • Full Stack Applications • Developer Tools
 
 
 
