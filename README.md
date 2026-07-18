@@ -46,8 +46,9 @@ I'm passionate about building AI-powered products, scalable backend architecture
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/govinda_mahanti" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
+
+  <a href="https://www.govindamahanti.me" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://facebook.com/govinda.mahanti.3" target="_blank">
@@ -55,8 +56,8 @@ I'm passionate about building AI-powered products, scalable backend architecture
   </a>
     &nbsp;&nbsp;
 
-  <a href="https://www.govindamahanti.me" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="32" alt="Portfolio"/>
+  <a href="https://instagram.com/govinda_mahanti" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
 
